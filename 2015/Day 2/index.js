@@ -1,4 +1,4 @@
-import fs, { read } from "node:fs";
+import fs from "node:fs";
 import readline from "node:readline";
 import { wrappingPaper, wrappingRibbon } from "./wrapping_paper.js";
 
