@@ -1,0 +1,11 @@
+{
+  "name": "day-7",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^1.5.0"
+  }
+}
